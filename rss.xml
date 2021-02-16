@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Spen Taylor]]></title><description><![CDATA[I'm a technologist interested in using web, crypto and ML to help overcome the growing social & privacy issues emerging from our increasingly connected world.]]></description><link>https://spentaylor.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 16 Feb 2021 13:01:37 GMT</lastBuildDate><item><title><![CDATA[Automattic & WordPress.com]]></title><description><![CDATA[CalypsoCalypso is the front-end for WordPress.com, built with React, Redux & other related tools. I started contributing to the project…]]></description><link>https://spentaylor.com//wordpress/</link><guid isPermaLink="false">https://spentaylor.com//wordpress/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;h2&gt;Calypso&lt;/h2&gt;
+&lt;p&gt;Calypso is the front-end for WordPress.com, built with React, Redux &amp;#x26; other related tools. I started contributing to the project voluntarily while I was learning the ropes of react as it seemed like a great example of a large open-source project and ended up sticking around to work on it full-time.&lt;/p&gt;
+&lt;p&gt;As almost all of our work at Automattic was done within the open source realm you can find a full list of my contributions to wp-calypso &lt;a href=&quot;https://github.com/Automattic/wp-calypso/pulls?q=is%3Apr+author%3Aspen+is%3Aclosed&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are some of my focuses while working on Calypso:&lt;/p&gt;
+&lt;h3&gt;Onboarding Rebuild&lt;/h3&gt;
+&lt;p&gt;I was part of the team responsible for rebuilding WordPress.com’s sign-up flow.
+We created a new sign-up experience that aimed to give new users a head-start in their sites creation by importing existing content from other sources, suggesting styles and starter content based on the users details and giving a handful of default themes for them to try on during the sign-up process.&lt;/p&gt;
+&lt;p&gt;Along the onboarding journey the user sees a preview of both the desktop and mobile versions of their site, making for a more engaging, exciting experience.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/323c929a09810e12b1556b70ab23c1d5/90462/signup.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 64.09017713365539%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAABYlAAAWJQFJUiTwAAACw0lEQVQoz2PgyZzEktzHkNiDQHFdDLGdjIm9bKn9AtmTgSKMCd0Myb0IBQk9QC18WZMYGIASyDoTe4wbFnn0rvafuD58+mYgCp2xxbt1hV3KJE40O4Aa0XQCUfrcbZO2n+jefGzqnnNTd5+devDipPm7awM6BJNAljMiK2aI70K3PK4T5PL4LtaUPvbUCSDVST0M6f0QWUagEQndjBBTSpbuPnbz0Z4r9yBo75V7+6892H7+1u7Ldw9cf7gPLLLn8r0j1x+uPXV96t5zh68/WH/iyt5Ld9aducmw/MT1//////n79z8E/Pv35/vXP7++///1/e+vnzAxEPny49dTdx7//Pju1YvnX9+9fvTiNUPuxEVbNm1esWbjqnWb16zfBkTLV25csWrTylWb16zdtmnTns2b927ZvG/75r2rNu5zjclzcPJz8gx38wiz9YphkLYLN9WxtjXzdrUK8rEND3KMiXRLjHNPSvJIyfTNKA7Kq4sqaY6vbI+vLI0pd/dOj3GJSfBIzPBKTg3OYzDxz00NSC+NqZyU3rQ4v2NLRe+u6v6tVX0H6yecbptyqX/WjRkLbs1ZfGfO4oN9szqLerZU9q+onHCgYcqWlhkMmj6ZHm5xEdGVWVndWRmdVTndDUX95QUTWksmTaqaPqNh9oK2+XPbFsxomV9bPMk/raOwsD+7oK+suL+gdAqDsKWPjKK2koGTe1ieR3S5Z2xtYFJzSFJzWEpLVEp7am5vfsmUgtLp6VkTA+Lb1NxSjB2jLb2z7fzyLQNLGMQsPVUVlRTV9BQ1zVQNnLQsAvTtY0zcMiy9C8w986x8Cu38S4HI3C1L0z7BxDfZPyjRNywrNK7cJ7GWQczKS1VRQVlFQ1FFS17NWEHTWlHHUVnPRcM0SMc2Vsc2TtsmRtMqXN3ER0bLXi+v13PCOpfO5e7dK2xblwIAhJZsoGAUw60AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/323c929a09810e12b1556b70ab23c1d5/53e9f/signup.webp 340w,
+/static/323c929a09810e12b1556b70ab23c1d5/0991f/signup.webp 680w,
+/static/323c929a09810e12b1556b70ab23c1d5/9d77c/signup.webp 1360w,
+/static/323c929a09810e12b1556b70ab23c1d5/27063/signup.webp 2040w,
+/static/323c929a09810e12b1556b70ab23c1d5/cfcc8/signup.webp 2484w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/323c929a09810e12b1556b70ab23c1d5/a2595/signup.png 340w,
+/static/323c929a09810e12b1556b70ab23c1d5/2473e/signup.png 680w,
+/static/323c929a09810e12b1556b70ab23c1d5/55534/signup.png 1360w,
+/static/323c929a09810e12b1556b70ab23c1d5/0a656/signup.png 2040w,
+/static/323c929a09810e12b1556b70ab23c1d5/90462/signup.png 2484w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/323c929a09810e12b1556b70ab23c1d5/55534/signup.png&quot;
+          alt=&quot;signup-flow-screenshot&quot;
+          title=&quot;&quot;
+          src=&quot;/static/323c929a09810e12b1556b70ab23c1d5/55534/signup.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The biggest issues in this project came from having to re-write the wizard logic to accept dynamic sign-up flows, where the remaining steps might be determined by the progress made and answers given so far in the sign up journey. As I was joining the team responsible for the delivery of the new onboarding flow I noticed that some of the existing code had oversights that would surface as we built our new plans on top of it. I managed to rewrite this area with sound logic just in time to fix a nasty bug seen in production.&lt;/p&gt;
+&lt;h3&gt;Simplifying App State with Redux&lt;/h3&gt;
+&lt;p&gt;One area that I focused on both before and after joining Automattic full-time was ‘reduxifying’ parts of calypso’s state, with the goal of removing Flux and Immutable.JS from the codebase altogether.
+Given the size and complexity of the app we had many state containers with Flux, each with its own personality and behavior. We wanted to get to a point where all app state would be held in redux - making it easier to access state from anywhere in the app.
+It was a lengthy process but allowed us to simplify much of the state logic across the app making the experience of updating those areas of code much easier to navigate and maintain.&lt;/p&gt;
+&lt;h3&gt;Auto-translate in HappyChat&lt;/h3&gt;
+&lt;p&gt;To provide quicker support to customers whose languages weren’t officially supported by policy wwe streamlined the translating process by detecting and translating as messages came in to our internal chat app ‘HappyChat’.
+Until this point our support engineers would have to keep translations in a separate browser tab, making the process cumbersome and slow.
+We didn’t launch two-way translation right away as there were concerns about bad or offensive translations.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a7ffd30eb98a4152472768b3b45d64fc/8e0ac/translate-1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 541px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 141.58964879852124%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAcCAYAAABh2p9gAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEt0lEQVRIx61VWW8bZRS1hBASFLGKRUAFlFVFZSuFskpFgmceeOE38A/4G9AXXulKSQsUmhJSKFXD1i1NnMS7PV5mPJ6xZzxeE8eHc76x06g88MJIR99y7z3fuYuTRMUPMZPz8FW6gSOZBg5vw6F0jOn9kcxNPrQd5Xo86+EEkWsESJzOe7hzJoeHvi3grpk87j+Vx8Pc33cy3k/vhTu+yWEHcQ9tsj9A++08J45lkDiUxperLhJSdy+N++YsHDhXwYFfKnj8dBF7f7Lw7nwF7/O8Z9bC63NlvHCmhOd+LOGtn8t45ayF/bx7gr6JoyQ8nMYXKyQ8SUIp2UfjqyQRnmfgSwxQsIhe5H7PbMnYdv0QP7b7TEz8HkXoXoQHVyYKH2RautSrhpBEzxLPECKSQj2we6JwqvTR7wpb2CI8RULVRQFvUM1+vvrhr9UtRe/Ml/GyUWjhA97vnWTwmlQpVeHYtpRPZBumuJIvUtVSwW/y/DTTUyneJqmIpEqrbDsmzbjleBa3fp01hKYps0XfdFmylepTJHmE+10strqp/ZPc7/y+gLvpt5Pnx4jbRHIkTYXprS5/dsVGosY5PG/5OFPwMGe1MF8JDLSfK/mYLXrQo2e5n7eaOFcNiTYu2G0sOBEuOm2cL/OetoVKEwnHa8G3a2g5NeRTKSSvX0dqOYnMygrcShlNu4qNbgTzjTbQcl349Tp8rvWajYbj0DA25l63h4RNQpsODc/DSjqDPy5fM1hMrqJG5zoDu70epl+13kDOqqJQqSFbqqBUc8y9KFsdEjbbXQyH62i2QoRRxOA++oMBwnaEZhAaaB91uvCbATpUIf9+f2DWIIwY1zGkgQjFqoBMwTJYzRZgVW14zRZWM3kk0zmzVh0XuVIZhXKVyl2s0a9ElclUFuWJSkPYjLpGVZ7yFWC7DeOczhe590yQArJ8TLZ0voRUrmjuZCuWa8a33vAR9QYx4XB9nUbbBMkxb1WQLVpGlaC7AuvmNDxU7DpyxbKx664oxaxrm2m3u/04ZdVHrynVa8k1o0LOKoEIltcyJtCqOiaTZaaZoY9i5Dv9WhSXaEUxoQxKVelMU1UJRCJiqdZd7FMwqUqAslKNxWFSFqE6JyIRKHWlKQJB6UzTqnu+USy7zg2/yZGL7T32oS1Cn2Mz2tzEEtMSlKrUZifpquCql98K8F+f6bLfjmdoYzTCYDjkDA4xIHTe2BiZWTMrGzcej7G5SYxjjCfrJgX9i/D/+Ayh22ojZLtD1jEG9zQE2xBOMbHdOE/uJnCDiH8cmiHs7fADOHzEDTrGQWu9FaHOvXydQPsu6vzJ2fSz/RuxshvCOg1aRVDhyFxZWiGSuLS4hL+uLprZXFxewp/ZEEt/r6GcuYwLl67DtThiJK+StDYljMliwiksh6PA+SvqF8K1bM42Sm6Aas3l/NWQKrpwOUYhe7De6aBPqHyJITuozm3v4M3fyNzDjNeI9pH28iMueT18nmrieDFENNxAQk5uKzIq1QD9Oat5cRlqXgAvmE7B9ockIN59dNHGxwu2+TfyW4Ndlqp2dwD9Yrqcv25/yA72DRok0yOjyZyNJ7M3nT99n1528cnvjvm3e7U5wD/RyqiiktuRQQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/a7ffd30eb98a4152472768b3b45d64fc/53e9f/translate-1.webp 340w,
+/static/a7ffd30eb98a4152472768b3b45d64fc/c4f2e/translate-1.webp 541w&quot;
+          sizes=&quot;(max-width: 541px) 100vw, 541px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/a7ffd30eb98a4152472768b3b45d64fc/a2595/translate-1.png 340w,
+/static/a7ffd30eb98a4152472768b3b45d64fc/8e0ac/translate-1.png 541w&quot;
+          sizes=&quot;(max-width: 541px) 100vw, 541px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/a7ffd30eb98a4152472768b3b45d64fc/8e0ac/translate-1.png&quot;
+          alt=&quot;auto-translate-screenshot&quot;
+          title=&quot;&quot;
+          src=&quot;/static/a7ffd30eb98a4152472768b3b45d64fc/8e0ac/translate-1.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Remote By Default&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://automattic.com/creed/communication-is-oxygen/&quot;&gt;Communication is Oxygen&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;One of the more interested aspects to my work at Automattic was in working remotely within a globally spread out company. At one point in time my team included people in the USA, Europe, New Zealand and Australia.
+As a result of our overlapping timelines we often worked asynchronously and made sure to over communicate our work between each other.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Crypto Bot Runner]]></title><description><![CDATA[MotivationsI wanted a platform that would allow for passive strategies that could create and track multiple smaller trades within the same…]]></description><link>https://spentaylor.com//crypto-bot-runner/</link><guid isPermaLink="false">https://spentaylor.com//crypto-bot-runner/</guid><pubDate>Wed, 06 May 2015 23:46:47 GMT</pubDate><content:encoded>&lt;h2&gt;Motivations&lt;/h2&gt;
+&lt;p&gt;I wanted a platform that would allow for passive strategies that could create and track multiple smaller trades within the same market but only found platforms that would give advice to either sell or buy.
+By ‘passive’ I mean strategies that can be run once or twice a day rather than constantly and without having to compete for speed with high speed trading algorithms.&lt;/p&gt;
+&lt;p&gt;An example of one such ‘passive’ strategy would be to open 5 trades on the sell side at increments of 10%. We might only run our strategy once a day, so these open orders can sit there and fill in between and the strategy can just respond the next time it runs, whenever that is, rather than selling once and missing out on any price action in between now and the next run.&lt;/p&gt;
+&lt;h2&gt;Tick Cycle&lt;/h2&gt;
+&lt;p&gt;I wanted the platform to do as much of the heavy lifting as possible, allowing users to write the smallest amount of code possible to have their strategy run.
+For this, I broke the tick cycle in to 3 stages - preprocessing the last tick (if there was one), running the users strategy code and then processing the resulting data and advice.&lt;/p&gt;
+&lt;p&gt;In the case of paper trading or back-testing, this advice is acted on right away, updating balances and opening &amp;#x26; closing orders locally. In the case of real, live trading the advice is handled via the Coinbase API asynchronously, blocking any further tick cycles until API work is resolved.&lt;/p&gt;
+&lt;h2&gt;Back-testing&lt;/h2&gt;
+&lt;p&gt;To test a strategy, users can select a data set and run their strategy over the price sequence.
+As the back-tester runs through the data set it executes the strategy logic and handles any advice given by the logic.
+I’ve included markers to show where on the chart orders were opened &amp;#x26; closed and where orders were executed on either side - in some cases (as in the screen shot shown at the top of this article) this results in a busy graph, but gives a clear indication of how the strategy behaved.
+The results that this back-tester gives are unrealistically optimistic in that they don’t factor in fees or account for the effect real trading would have on the market (however small) - so ignores the inevitable slippages that would normally effect the end result.&lt;/p&gt;
+&lt;h2&gt;Live ‘Paper’ Trading&lt;/h2&gt;
+&lt;p&gt;As with the back-tester, users can configure their strategy and run it against live price data.
+The data comes from the coinbase-pro API and each incoming tick runs through the same mechanism as the back-tester (for the sake of consistency between the two).
+In practice I found this less useful than back-testing simply because the back-testing covers so much time data almost instantly, but it could help to further verify the strategy’s behavior.&lt;/p&gt;
+&lt;h3&gt;Data Sets&lt;/h3&gt;
+&lt;p&gt;To pull in a wide array of historic data sets I created a script to scrape data from CoinGecko.com
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3e9f440675dbd5c89c90b9494f70541d/5d571/historic-data.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 33.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABYlAAAWJQFJUiTwAAABIUlEQVQoz42Q226CQBRF+YJG28ZL08ptBmcEHKQKKohaiWLjQ///Z3bPjDT1pbEPKyez52SxGas38tF3OPR88QVYPIMXKvRdTjkzdwPbx/DVxYAYvrnwgwm4jOEwQZljMs1D5xEWW+0gdw1EdUS4PyNtvjCtL+BlDV4czAzyLaTKIZKlIckrpOs9VLaBaHM5W6H73IclohRFVaPc1mZGaoGRJ+Hy8JcggjOO4bbYPCJC2JTrs0PTkwqdpx4JSbCpP7HeHc2M5wVdJvAnsz9hN1yzBCxM0dVCScKKREtqV5BUi6N0CVdMzVf/hVBGbISTJMP+dEH50RAnJFkJtSjMkl72dds76D0W3gg3h7NpplsG8Ts4ves4nptf+hHfa8jaht8zOdM5X2K8jgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/3e9f440675dbd5c89c90b9494f70541d/53e9f/historic-data.webp 340w,
+/static/3e9f440675dbd5c89c90b9494f70541d/0991f/historic-data.webp 680w,
+/static/3e9f440675dbd5c89c90b9494f70541d/9d77c/historic-data.webp 1360w,
+/static/3e9f440675dbd5c89c90b9494f70541d/28e69/historic-data.webp 1842w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/3e9f440675dbd5c89c90b9494f70541d/a2595/historic-data.png 340w,
+/static/3e9f440675dbd5c89c90b9494f70541d/2473e/historic-data.png 680w,
+/static/3e9f440675dbd5c89c90b9494f70541d/55534/historic-data.png 1360w,
+/static/3e9f440675dbd5c89c90b9494f70541d/5d571/historic-data.png 1842w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/3e9f440675dbd5c89c90b9494f70541d/55534/historic-data.png&quot;
+          alt=&quot;historic data screenshot&quot;
+          title=&quot;&quot;
+          src=&quot;/static/3e9f440675dbd5c89c90b9494f70541d/55534/historic-data.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+I also built a generator to get random new chart shapes to try out.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5317052300f832e1150641a374857235/2b918/generate-data.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.22222222222223%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAAB90lEQVQ4y5VTSW7bQBDkDwxZFKmNu7iJ+yJrsSUZAizASJC7b7nmluQNSV6Rv1a6hyJFC77kUOxhTbOmepot3Q1kjOcm1JkhYDg+vDCBbrlQpjommiWg6A5Uw8FIt6G5IZwog+FHgmv2FrgbKpBkdQY/XcFLaoGkfkS+PiAqt3AvnJus4KyPcDbPsCmGhzPyl89ITq8dt9idIJMxaSCrMNwI+mIpoDkhIYBmB02kd8OlPduHQZxBnG750EwPmnXhCCbl3ctjSPwwvYQQd+ADgrRCXKwR5Q8oHp6wpMh8P6/L5+gnGCqTVjDukjlatFlvD1jtnikeUW2a9TJfiSr6B7dgwftRT7CFRh+wKxYq1/t3YC7MrqK3gkNlehVs79BPKuGoFeF1/51F3ai4Ou0JjsazRpBLDNIaabV95+xWuL/2hOj1mvgeZZUcqpM58tWjEPqozI/QuraDVIhx9OKycahOtS7hf8CHc/czQv10EhjPdEjc6qzeCbBTTiouTsQHN3xx4RP6pVLaK7Maub9EQZMz4pK57mJzpOnYIyo24sLtMKMyMmpQjZL2onIjShI8wY0r7M9fsD+esXj7hvj3XwQ//2BIoyqaElBn+ZJtag5PyNzyMKNJMGlCQnLgBDTbTsMz9EUoxjMnl9qnN1jff0H/+gMDGuN/HB6JyJX1cP8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/5317052300f832e1150641a374857235/53e9f/generate-data.webp 340w,
+/static/5317052300f832e1150641a374857235/0991f/generate-data.webp 680w,
+/static/5317052300f832e1150641a374857235/9d77c/generate-data.webp 1360w,
+/static/5317052300f832e1150641a374857235/049fa/generate-data.webp 1800w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/5317052300f832e1150641a374857235/a2595/generate-data.png 340w,
+/static/5317052300f832e1150641a374857235/2473e/generate-data.png 680w,
+/static/5317052300f832e1150641a374857235/55534/generate-data.png 1360w,
+/static/5317052300f832e1150641a374857235/2b918/generate-data.png 1800w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/5317052300f832e1150641a374857235/55534/generate-data.png&quot;
+          alt=&quot;generate data screenshot&quot;
+          title=&quot;&quot;
+          src=&quot;/static/5317052300f832e1150641a374857235/55534/generate-data.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Interactive Window Display]]></title><description><![CDATA[In this project I wanted to explore the idea of using a mobile device to engage directly with a screen in a window display, without having…]]></description><link>https://spentaylor.com//estate-agent-multi-device/</link><guid isPermaLink="false">https://spentaylor.com//estate-agent-multi-device/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;In this project I wanted to explore the idea of using a mobile device to engage directly with a screen in a window display, without having to add any expensive specialist hardware.&lt;/p&gt;
+&lt;p&gt;The display has an idle state, showing a slide-show of various properties with some basic details &amp;#x26; images of each property.
+Then, either by scanning a QR code, or entering a code in to a web app, the user is automatically connected &amp;#x26; synced up with the display. From here the user can interact with the display, either by progressing through the properties, looking at different images or by taking a virtual tour through the property.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My CCA]]></title><description><![CDATA[I worked on an internal B2B platform for CCA for a 3 week contract to help wrangle the front-end codebase. The front-end was built with…]]></description><link>https://spentaylor.com//my-cca/</link><guid isPermaLink="false">https://spentaylor.com//my-cca/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;I worked on an internal B2B platform for CCA for a 3 week contract to help wrangle the front-end codebase. The front-end was built with jQuery and had become difficult to manage and had started to showing inconsistent state across different
+areas of the UI.&lt;/p&gt;
+&lt;p&gt;I decided to add a thin backbone.js layer, allowing the team to incrementally move state items in to a dedicated state layer. I layed out some documentation and guidelines for how to transition areas of the app to work with backbone.js and the state layer it provided so that the offshore team could follow some simple patterns after I was gone and worked through some examples while I was still available.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Burberry]]></title><description><![CDATA[This was my first role working on a large(ish)-scale MVC javascript project.Much of what I worked on was bug fixes and small new features.
+]]></description><link>https://spentaylor.com//burberry/</link><guid isPermaLink="false">https://spentaylor.com//burberry/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;This was my first role working on a large(ish)-scale MVC javascript project.&lt;/p&gt;
+&lt;p&gt;Much of what I worked on was bug fixes and small new features.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/730bf48c0757d8a0bfa4359e6eecb557/66f3e/burberry-screen.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 81.2579415501906%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAIAAACZeshMAAAACXBIWXMAABYlAAAWJQFJUiTwAAADf0lEQVQoz2WM609aBxjGz4d9MA2o3A4w1HrDcOeA3O+TVikqIrbNCrRCW2zRD8vSL3NNluwf2HDaKXTGFoQYCzIq7bgopllROALTjqNYZzutXbdlf8QO1SzZlvzy5Hne/PICUplIJBZAQh4k5AuEEIpQBHH5XKlCqtGp1FqlVC7h8TmQkMvjszk8NodbTR6fK5J0Ao7bRofbePVW77C73zlqvuY220ZMtpsW680h640h6/Uh+4jFPmKyXNX3XtSeNyl1PTLNebFCK9T2iIGxT3WuMZ3jtuaKQ3XJqhq4qOobVJovd122GVBsToPdaRi8pO7uE+sviLR6SKnhKHUchY4jU7OAW6Ni23DndZfUPSq3WWXOYbnLJb/m6Bxxqz65o78z3uUaU1iucPqGON0mtraHqehiqnQsmZohFHcANrvCYBSYzAKzhdc7ADlvKIz9kFbPNQ2KPrbLByyd5y5AcjVTqWfqjOzufqbRwtTo6ecMdNVHHQBX0tZAp2DB+joqnnSWCrY21lIodR/SmlgMOruFJ5ewBAyRnKHUsCFJWwuDKpS0imR0vqitndUI1FBrMY112CZcbQMOS8NjqPhaKgkDEmrw9TW4elzT2foGGthMpXVQSc0ELIjBELEYPPYMDvvBmRqACJKJZAoKgUQmEEkEEkgkgQQSiUyhtLa3N7e2UBpoBDIZD5LRJIIgHiThiEQ8oWoC81+Pn+IZD3qqiRL46jP0Epq4G/R8jpaTiRL0/AvgzfPAf3i7Htxfna2k7u+mfEjCu5v0ofM4O/9/E0ASvlOSpxRjk3B0shib2gh7cpGJQmxq8/vqRB/945x0AH28k/LtoJmYqfakr5zwlp9Oo2Ur/u32k2kkMV1V39snDvJeQxIzQD4+tx69nw7dO94twPEHm/EHSf/EEZLffOqHl+dWQvcOy/liIpCNzGQWZtB74Qf/+pIX9d+93AKy8SCS9OcWJ/84fJVLLO6thuDFb473K3AyvLsS2n7s/e3gJZwKb69ENmIPjw/2NlOPymvRbHTuzzdHQC4+/3t2Pjd3d7+0XkxH3v7oh/1f7GxkSqvR1yuz+cCXe4XnW5kYsrb0bGGqAj/7aS1WXlvKBD2vX8BAbjnwS9pXWvYe7e0UEgt/wQv76dlXyFYx+ego893PT3y/VsqldDi//DD7OHBYeVFKR5BMuJRafHdQ+RvGFLpjO3uUOAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/730bf48c0757d8a0bfa4359e6eecb557/53e9f/burberry-screen.webp 340w,
+/static/730bf48c0757d8a0bfa4359e6eecb557/0991f/burberry-screen.webp 680w,
+/static/730bf48c0757d8a0bfa4359e6eecb557/9d77c/burberry-screen.webp 1360w,
+/static/730bf48c0757d8a0bfa4359e6eecb557/19b83/burberry-screen.webp 1574w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/730bf48c0757d8a0bfa4359e6eecb557/a2595/burberry-screen.png 340w,
+/static/730bf48c0757d8a0bfa4359e6eecb557/2473e/burberry-screen.png 680w,
+/static/730bf48c0757d8a0bfa4359e6eecb557/55534/burberry-screen.png 1360w,
+/static/730bf48c0757d8a0bfa4359e6eecb557/66f3e/burberry-screen.png 1574w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/730bf48c0757d8a0bfa4359e6eecb557/55534/burberry-screen.png&quot;
+          alt=&quot;burberry-screenshot&quot;
+          title=&quot;&quot;
+          src=&quot;/static/730bf48c0757d8a0bfa4359e6eecb557/55534/burberry-screen.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item></channel></rss>

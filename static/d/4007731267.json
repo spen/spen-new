@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"social\" on type \"SiteSiteMetadata\".","locations":[{"line":12,"column":7}]}]}
